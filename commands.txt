@@ -1,0 +1,17 @@
+open chrome 
+close chrome 
+
+open notepad
+close notepad
+
+open netbeans 
+close netbeans 
+
+system shut down 
+system restart
+
+open eclipse 
+close eclipse 
+
+open microsoft edge
+close microsoft edge
